@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+    <ServerGroup Name="Smothers" Description="Time to smother in some loopy decor on a massive map.">
+        <Server Name="Smothers">
+            <Description>Smothers, a TSSN project. Tons of decoration, beautiful landscapes and massive cities. Plenty to do, and a server hosted by The Second Server Network.
+			</Description>
+            <Discord>https://discord.gg/FEzMPT4</Discord>
+            <Donate></Donate>
+            <EAC>Disabled</EAC>
+            <Version>Latest</Version>
+            <DownloadMode>Clone</DownloadMode>
+            <Downloads>
+                <Download>https://github.com/T2NDS/Smothers.git</Download>
+            </Downloads>
+        </Server>
+    </ServerGroup>
+</Servers>
