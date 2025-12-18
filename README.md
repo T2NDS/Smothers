@@ -1,9 +1,3 @@
-TSSN's Smothers a Contentful 7 Days to Die Mod Compilation
-
-
-
-
-#Ignore LFS Data
 version https://git-lfs.github.com/spec/v1
-oid sha256:eaca1b198e183366c5f9b74efe58acc29025060464427c0a7f4bb59f9891d1f2
-size 58
+oid sha256:c1349996691913175ae19a9c4b1888ef57d5f8548c1a1e38b06ca609dc482d8c
+size 216
